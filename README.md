@@ -1,4 +1,4 @@
-# isearch
+# I-search
 
 ISearch is Mobile App developed using Flutter and Google Maps API which helps users to Scan the object and App will automatically detect the object and suggest nearby places where user can buy that object. App has also support of maps,Routes and Night mode. Yolo v2 is used to detect the Objects. Yolo v2 has upto 120 different types of Classes of different objects.
 
